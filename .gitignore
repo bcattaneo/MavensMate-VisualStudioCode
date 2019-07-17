@@ -2,5 +2,6 @@ out
 node_modules
 .DS_Store
 *.vsix
+!mavensmate-fork-*.vsix
 .vscode-test
 .sfdx/tools/apex.db
